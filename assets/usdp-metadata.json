@@ -1,0 +1,16 @@
+{
+  "name": "USDp",
+  "symbol": "USDp",
+  "description": "PubKey USDp Token",
+  "image": "https://raw.githubusercontent.com/pubkeyapp/pubkey-usdp/main/assets/usdp-logo.png",
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Developer Coin"
+    },
+    {
+      "trait_type": "Effort",
+      "value": "Low"
+    }
+  ]
+}
